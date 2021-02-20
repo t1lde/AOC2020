@@ -1,0 +1,48 @@
+cabal-version: 2.0
+
+-- This file has been generated from package.yaml by hpack version 0.34.3.
+--
+-- see: https://github.com/sol/hpack
+
+name:           AOC2020
+version:        0.1.0.0
+author:         Tilde Rose
+maintainer:     t1lde@protonmail.com
+copyright:      2020 Tilde Rose
+license:        BSD3
+build-type:     Simple
+
+executable advent
+  main-is: Runner.hs
+  other-modules:
+      Day1
+      Day10
+      Day2
+      Day3
+      Day4
+      Day5
+      Day6
+      Day7
+      Day8
+      Day9
+      Parser
+      RegexInTypes
+      Paths_AOC2020
+  hs-source-dirs:
+      AOC
+  ghc-options: -Wall -Wcompat -Wincomplete-record-updates -Wincomplete-uni-patterns -Wredundant-constraints -XEmptyCase -XInstanceSigs -XLambdaCase -XMultiWayIf -XNamedFieldPuns -XTupleSections -XBangPatterns -XKindSignatures -XTypeOperators -XOverloadedStrings -XScopedTypeVariables -XTypeApplications -XApplicativeDo -XDeriveGeneric -XDataKinds -XDerivingVia -XRecordWildCards -XDeriveFunctor -XDeriveTraversable -XOverloadedLabels -XFlexibleInstances -XFlexibleContexts -XMultiParamTypeClasses -XGADTs -XTypeFamilies -XAllowAmbiguousTypes -XConstraintKinds -XStandaloneDeriving -XPolyKinds -XFunctionalDependencies -XRankNTypes -XViewPatterns -XOverloadedLabels -O0 -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , bifunctors
+    , containers
+    , filepath
+    , mtl
+    , relude
+    , split
+    , text
+    , transformers
+    , unordered-containers
+  mixins:
+      base hiding (Prelude)
+    , relude (Relude as Prelude, Relude.Extra.Foldable1, Relude.Extra.Type, Relude.Extra.Newtype, Relude.Extra.Map)
+  default-language: Haskell2010
