@@ -3,6 +3,8 @@ title: 'Day 10: Adapter Array'
 subtitle: 'Advent of Code 2020'
 sort: 10
 published: 'Wednesday 23 Dec 2020 05:31:10 GMT'
+source_repo_url: 'https://github.com/t1lde/AOC2020'
+source_in_repo_url: 'https://github.com/t1lde/AOC2020/tree/master/AOC/Day10.lhs'
 ------------
 
 > module Day10 (run1, run2) where

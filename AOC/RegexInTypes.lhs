@@ -2,6 +2,8 @@
 title: 'Type Level Programming in Haskell: Regex in Types'
 pin: 'Regex In Types'
 published: 'Wednesday 23 Dec 2020 05:31:10 GMT'
+source_repo_url: 'https://github.com/t1lde/AOC2020'
+source_in_repo_url: 'https://github.com/t1lde/AOC2020/tree/master/AOC/RegexInTypes.lhs'
 -----------
 
 > {-# LANGUAGE UndecidableInstances #-}

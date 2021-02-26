@@ -2,6 +2,8 @@
 published: 'Wednesday 23 Dec 2020 05:31:10 GMT'
 title: Parser.lhs
 subtitle: A Parser Combinator Library
+source_repo_url: 'https://github.com/t1lde/AOC2020'
+source_in_repo_url: 'https://github.com/t1lde/AOC2020/tree/master/AOC/Parser.lhs'
 ------------
 
 > module Parser where

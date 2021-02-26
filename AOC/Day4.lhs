@@ -3,6 +3,8 @@ title: 'Overengineering Day 4 with type-level programming'
 subtitle: 'Day 4: Passport Processing - Advent of Code 2020'
 published: 'Wednesday 23 Dec 2020 05:31:10 GMT'
 sort: 4
+source_repo_url: 'https://github.com/t1lde/AOC2020'
+source_in_repo_url: 'https://github.com/t1lde/AOC2020/tree/master/AOC/Day4.lhs'
 -----------
 
 > {-# LANGUAGE UndecidableInstances #-}

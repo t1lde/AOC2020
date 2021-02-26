@@ -2,6 +2,8 @@
 title: 'Day 8: Handheld Halting'
 subtitle: 'Advent of Code 2020'
 published: 'Wednesday 23 Dec 2020 05:31:10 GMT'
+source_repo_url: 'https://github.com/t1lde/AOC2020'
+source_in_repo_url: 'https://github.com/t1lde/AOC2020/tree/master/AOC/Day5.lhs'
 sort: 8
 -----------
 

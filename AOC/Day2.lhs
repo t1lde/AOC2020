@@ -3,6 +3,8 @@ title: 'Parser Combinators'
 subtitle: 'Day 2: Passport Philosophy - Advent of Code 2020'
 published: 'Wednesday 23 Dec 2020 05:31:10 GMT'
 sort: 2
+source_repo_url: 'https://github.com/t1lde/AOC2020'
+source_in_repo_url: 'https://github.com/t1lde/AOC2020/tree/master/AOC/Day2.lhs'
 --------
 
 > module Day2 where

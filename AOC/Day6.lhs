@@ -3,6 +3,8 @@ title: 'Day 6: Custom Customs'
 subtitle: 'Advent of Code 2020'
 published: 'Wednesday 23 Dec 2020 05:31:10 GMT'
 sort: 6
+source_repo_url: 'https://github.com/t1lde/AOC2020'
+source_in_repo_url: 'https://github.com/t1lde/AOC2020/tree/master/AOC/Day6.lhs'
 -----------
 
 > module Day6 where
